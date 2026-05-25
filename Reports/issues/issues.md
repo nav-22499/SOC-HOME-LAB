@@ -114,3 +114,20 @@ sudo netplan apply
 ```
 
 * **Result:** The interface successfully detached from the dynamic `192.168.19.x` dynamic gateway lease and established a persistent socket binding on the static `192.168.56.30` subnet required for target telemetry logging.
+
+
+### SSH Service Troubleshooting
+
+Issue:
+The SSH service was installed but inactive.
+
+Resolution:
+Started and enabled the SSH service using systemctl.
+
+Commands Used:
+sudo systemctl start ssh
+sudo systemctl enable ssh
+systemctl status ssh
+
+Result:
+SSH service became active and persistent across reboots.

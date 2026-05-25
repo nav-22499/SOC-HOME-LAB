@@ -58,9 +58,9 @@ Technologies Used
 
 ---
 
-## Current Progress
+Current Progress
 
-### Week 1
+Week 1
 
 * [x] VMware network configured
 * [x] Windows 10 VM deployed
@@ -69,10 +69,17 @@ Technologies Used
 
 ---
 
-## Future Goals
+Future Goals
 
 * Sysmon deployment
 * Splunk ingestion
 * Detection engineering
 * Threat hunting
 * Incident response investigations
+
+  Week 1
+- [x] VMware network configured
+- [x] Windows 10 VM deployed
+- [x] Ubuntu Linux server deployed
+- [x] SSH service configured
+- [x] Linux logging validated

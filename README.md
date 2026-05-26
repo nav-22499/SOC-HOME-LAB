@@ -83,3 +83,10 @@ Future Goals
 - [x] Ubuntu Linux server deployed
 - [x] SSH service configured
 - [x] Linux logging validated
+
+### Week 1
+- [x] VMware network configured
+- [x] Windows 10 VM deployed
+- [x] Ubuntu Linux server deployed
+- [x] Kali attacker machine deployed
+- [x] Reconnaissance simulations completed
